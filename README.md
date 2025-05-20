@@ -3,7 +3,6 @@
 # Airline Revenue Management Predictive Analytics
 
 A predictive analytics framework for Airline Revenue Management (ARM) that leverages supervised machine learning techniques to forecast ticket prices and simulate revenue outcomes based on historical and operational flight data.
-
 ---
 
 ## 📌 Project Objectives
